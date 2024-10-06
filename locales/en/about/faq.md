@@ -44,10 +44,6 @@ For example: `Core: Find Command` → `core:find-command`
 
 Lua 5.4.
 
-#### Vim mode?
-
-You need to [vibe].
-
 #### Plugin recommendations
 
 Just in case you don't want to comb through our [plugin repository][1],
